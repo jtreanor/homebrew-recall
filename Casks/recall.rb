@@ -1,6 +1,6 @@
 cask "recall" do
-  version "1.1.1"
-  sha256 "ee4700db1bf38e479c3d156ec19ad0bb38ac30c759592489f86bb8ddfc90022f"
+  version "1.1.2"
+  sha256 "b28b4c6c72becf6563d9e3d2d29a8a73c28e53245fe733d116abea5beb60f181"
 
   url "https://github.com/jtreanor/recall/releases/download/v#{version}/Recall-#{version}.dmg"
   name "Recall"
